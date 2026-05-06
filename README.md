@@ -11,7 +11,7 @@
 
 # Descripción General
 
-![Banner NetGuard Pro](./images/banner-netguard.png)
+![Banner NetGuard Pro](./images/banner-netguard1.png)
 
 NetGuard Pro es una solución empresarial de redes desarrollada por NetGuard Solutions para ayudar a las organizaciones a optimizar el rendimiento de sus redes, fortalecer la seguridad y simplificar la administración de infraestructura.
 

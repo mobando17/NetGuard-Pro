@@ -1,223 +1,233 @@
 # NetGuard Pro
 
-> Enterprise Network Monitoring, Security, and Traffic Optimization Platform
+> Plataforma Empresarial de Monitoreo, Seguridad y Optimización de Redes
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-green)
-![License](https://img.shields.io/badge/license-Commercial-orange)
-![Status](https://img.shields.io/badge/status-Stable-success)
-
----
-
-# Overview
-
-NetGuard Pro is an enterprise-grade networking solution developed by NetGuard Solutions to help organizations optimize network performance, strengthen security, and simplify infrastructure management.
-
-Designed for businesses of all sizes, NetGuard Pro provides real-time monitoring, intelligent traffic management, automated threat detection, and seamless cloud integration to ensure secure and efficient network operations.
-
-Whether managing small office environments or enterprise-scale infrastructures, NetGuard Pro helps IT teams maintain visibility, scalability, and operational reliability.
+![Versión](https://img.shields.io/badge/version-1.0-blue)
+![Plataforma](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-green)
+![Licencia](https://img.shields.io/badge/license-Commercial-orange)
+![Estado](https://img.shields.io/badge/status-Stable-success)
 
 ---
 
-# Key Features
+# Descripción General
 
-## Network Optimization
-- Real-time traffic monitoring and bottleneck detection
-- Dynamic bandwidth allocation for high-priority services
-- Automated network performance analysis
-- Intelligent traffic balancing across servers
+![Banner NetGuard Pro](./images/banner-netguard.png)
 
-## Advanced Security
-- Integrated firewall management with customizable rules
-- Real-time threat detection and alerting
-- Secure encrypted communication using TLS 1.3
-- Centralized security monitoring dashboard
+NetGuard Pro es una solución empresarial de redes desarrollada por NetGuard Solutions para ayudar a las organizaciones a optimizar el rendimiento de sus redes, fortalecer la seguridad y simplificar la administración de infraestructura.
 
-## Scalability
-- Supports small business and enterprise-level deployments
-- Seamless integration with cloud infrastructures
-- Automatic load balancing for optimized traffic distribution
-- Flexible deployment architecture
+Diseñado para empresas de todos los tamaños, NetGuard Pro proporciona monitoreo en tiempo real, gestión inteligente del tráfico, detección automatizada de amenazas e integración fluida con servicios en la nube para garantizar operaciones de red seguras y eficientes.
 
-## User-Friendly Interface
-- Intuitive dashboard for network monitoring and administration
-- Customizable alerts and notification settings
-- Real-time analytics and reporting
-- API integration for workflow automation
+Ya sea para administrar oficinas pequeñas o infraestructuras empresariales complejas, NetGuard Pro ayuda a los equipos de TI a mantener visibilidad, escalabilidad y confiabilidad operativa.
 
 ---
 
-# System Requirements
+# Características Principales
 
-| Component | Minimum Requirements | Recommended Requirements |
+![Características](./images/features.png)
+
+## Optimización de Red
+- Monitoreo de tráfico en tiempo real y detección de cuellos de botella
+- Asignación dinámica de ancho de banda para servicios prioritarios
+- Análisis automatizado del rendimiento de la red
+- Balanceo inteligente de tráfico entre servidores
+
+## Seguridad Avanzada
+- Gestión integrada de firewall con reglas personalizables
+- Detección de amenazas y alertas en tiempo real
+- Comunicación segura cifrada mediante TLS 1.3
+- Panel centralizado de monitoreo de seguridad
+
+## Escalabilidad
+- Compatible con pequeñas empresas e infraestructuras empresariales
+- Integración fluida con infraestructuras cloud
+- Balanceo automático de carga
+- Arquitectura flexible de despliegue
+
+## Interfaz Fácil de Usar
+- Panel intuitivo para monitoreo y administración
+- Alertas y notificaciones configurables
+- Analítica y reportes en tiempo real
+- Integración mediante API para automatización
+
+---
+
+# Requisitos del Sistema
+
+![Requisitos del Sistema](./images/system-requirements.png)
+
+| Componente | Requisitos Mínimos | Requisitos Recomendados |
 |---|---|---|
-| Operating System | Windows Server 2016/2019, Ubuntu 20.04+, CentOS 7+, macOS 10.15+ | Latest stable versions |
-| Processor | Quad-core 2.5 GHz | Octa-core 3.0 GHz |
-| Memory (RAM) | 8 GB | 16 GB |
-| Storage | 500 GB available space | 1 TB SSD |
-| Network Adapter | 1 Gbps Ethernet | 10 Gbps Ethernet |
+| Sistema Operativo | Windows Server 2016/2019, Ubuntu 20.04+, CentOS 7+, macOS 10.15+ | Últimas versiones estables |
+| Procesador | Quad-core 2.5 GHz | Octa-core 3.0 GHz |
+| Memoria RAM | 8 GB | 16 GB |
+| Almacenamiento | 500 GB disponibles | SSD de 1 TB |
+| Adaptador de Red | Ethernet 1 Gbps | Ethernet 10 Gbps |
 
 ---
 
-# Installation Guide
+# Guía de Instalación
 
-## Step 1 — Download the Installer
+![Instalación](./images/installation-guide.png)
 
-Visit the official NetGuard Solutions website and download the appropriate installation package for your operating system.
+## Paso 1 — Descargar el Instalador
 
-Supported platforms:
+Visita el sitio web oficial de NetGuard Solutions y descarga el paquete correspondiente a tu sistema operativo.
+
+### Plataformas Compatibles
 - Windows
 - Linux
 - macOS
 
 ---
 
-## Step 2 — Install NetGuard Pro
+## Paso 2 — Instalar NetGuard Pro
 
-Run the installer and follow the setup wizard instructions.
+Ejecuta el instalador y sigue las instrucciones del asistente.
 
-During installation:
-- Accept the license agreement
-- Select installation directory
-- Configure optional network services
-- Complete system verification checks
-
----
-
-## Step 3 — Launch the Application
-
-After installation, open NetGuard Pro from your system applications menu or desktop shortcut.
-
-The setup wizard will automatically start during the first launch.
+### Durante la instalación:
+- Acepta el acuerdo de licencia
+- Selecciona el directorio de instalación
+- Configura servicios opcionales de red
+- Completa las verificaciones del sistema
 
 ---
 
-# Initial Configuration
+## Paso 3 — Iniciar la Aplicación
 
-The initial configuration wizard allows administrators to:
+Después de la instalación, abre NetGuard Pro desde el menú de aplicaciones o acceso directo del escritorio.
 
-- Configure network settings
-- Import existing configuration files
-- Set administrator credentials
-- Enable monitoring services
-- Configure alert preferences
+El asistente de configuración inicial comenzará automáticamente.
 
-Supported configuration formats:
+---
+
+# Configuración Inicial
+
+El asistente inicial permite a los administradores:
+
+- Configurar ajustes de red
+- Importar archivos de configuración existentes
+- Definir credenciales de administrador
+- Activar servicios de monitoreo
+- Configurar preferencias de alertas
+
+### Formatos Compatibles
 - `.json`
 - `.yaml`
 
 ---
 
-# License Activation
+# Activación de Licencia
 
-To activate NetGuard Pro:
+Para activar NetGuard Pro:
 
-1. Open the Activation Panel
-2. Enter your license key
-3. Select deployment size
-4. Complete activation
+1. Abrir el Panel de Activación
+2. Ingresar la clave de licencia
+3. Seleccionar el tamaño del despliegue
+4. Completar la activación
 
-A 30-day free trial is also available for evaluation purposes.
-
----
-
-# Dashboard Overview
-
-The NetGuard Pro dashboard provides centralized visibility into network activity and system health.
-
-Administrators can:
-- Monitor real-time traffic
-- Review security alerts
-- Analyze performance metrics
-- Configure notifications
-- Customize dashboard widgets
+También está disponible una prueba gratuita de 30 días.
 
 ---
 
-# Cloud & Third-Party Integrations
+# Vista General del Panel
 
-## Cloud Providers
+![Dashboard](./images/dashboard-overview.png)
+
+El panel principal proporciona visibilidad centralizada sobre la actividad de red y el estado del sistema.
+
+### Los administradores pueden:
+- Monitorear tráfico en tiempo real
+- Revisar alertas de seguridad
+- Analizar métricas de rendimiento
+- Configurar notificaciones
+- Personalizar widgets del panel
+
+---
+
+# Integraciones Cloud y de Terceros
+
+## Proveedores Cloud
 - Amazon Web Services (AWS)
 - Microsoft Azure
 - Google Cloud Platform
 
-## Third-Party Tools
+## Herramientas de Terceros
 - Slack
 - PagerDuty
 - Splunk
 
-These integrations allow organizations to streamline monitoring, incident response, and workflow automation.
+Estas integraciones permiten automatizar monitoreo, respuesta a incidentes y flujos de trabajo.
 
 ---
 
-# Real-World Use Case
+# Caso de Uso Real
 
-A mid-sized financial services company with multiple branch offices uses NetGuard Pro to monitor network traffic, detect unusual activity, and optimize bandwidth allocation across its infrastructure.
+Una empresa mediana de servicios financieros con múltiples sucursales utiliza NetGuard Pro para monitorear tráfico de red, detectar actividad sospechosa y optimizar el ancho de banda entre oficinas.
 
-By implementing automated monitoring and centralized security alerts, the organization improved network performance, reduced downtime, and strengthened overall cybersecurity operations.
-
----
-
-# Contribution Guidelines
-
-We welcome contributions from developers and IT professionals.
-
-Before contributing:
-- Follow coding standards and documentation guidelines
-- Submit pull requests with detailed descriptions
-- Report issues using the issue tracker
-- Test changes before submission
+Gracias al monitoreo automatizado y las alertas centralizadas, la organización mejoró el rendimiento de la red, redujo tiempos de inactividad y fortaleció sus operaciones de ciberseguridad.
 
 ---
 
-# Troubleshooting
+# Guía de Contribución
 
-## Common Issues
+Aceptamos contribuciones de desarrolladores y profesionales de TI.
 
-### Installation Failure
-- Verify system requirements
-- Ensure administrator privileges
-- Check available storage space
-
-### Network Detection Issues
-- Verify firewall permissions
-- Confirm network adapter configuration
-- Restart monitoring services
-
-### License Activation Errors
-- Verify internet connectivity
-- Confirm license validity
-- Contact support if the issue persists
+### Antes de contribuir:
+- Sigue los estándares de codificación y documentación
+- Envía pull requests detallados
+- Reporta errores mediante el issue tracker
+- Prueba los cambios antes del envío
 
 ---
 
-# Licensing & Pricing
+# Solución de Problemas
 
-| Plan | Pricing |
+## Problemas Comunes
+
+### Fallos de Instalación
+- Verifica los requisitos del sistema
+- Asegura permisos de administrador
+- Comprueba espacio disponible
+
+### Problemas de Detección de Red
+- Verifica permisos del firewall
+- Confirma configuración del adaptador
+- Reinicia servicios de monitoreo
+
+### Errores de Activación
+- Verifica conexión a internet
+- Confirma validez de licencia
+- Contacta soporte si el problema continúa
+
+---
+
+# Licenciamiento y Precios
+
+| Plan | Precio |
 |---|---|
-| Small Teams | $499/month (up to 5 servers) |
-| Medium Organizations | $1,299/month (up to 15 servers) |
-| Enterprise | Custom pricing for 16+ servers |
+| Equipos Pequeños | $499/mes (hasta 5 servidores) |
+| Organizaciones Medianas | $1,299/mes (hasta 15 servidores) |
+| Enterprise | Precio personalizado para más de 16 servidores |
 
-Subscription options are available on monthly and annual billing cycles.
+Opciones disponibles en facturación mensual y anual.
 
 ---
 
-# Support & Contact
+# Soporte y Contacto
 
 ## NetGuard Solutions
 
-- Website: www.netguardsolutions.com
-- Email: info@netguardsolutions.com
-- Phone: +1-800-555-1234
+- Sitio web: www.netguardsolutions.com
+- Correo: info@netguardsolutions.com
+- Teléfono: +1-800-555-1234
 - LinkedIn: NetGuard Solutions
 
 ---
 
-# About NetGuard Solutions
+# Acerca de NetGuard Solutions
 
-NetGuard Solutions is a leading provider of advanced networking and cybersecurity software solutions focused on performance optimization, security enhancement, and scalable infrastructure management for businesses worldwide.
+NetGuard Solutions es un proveedor líder de soluciones avanzadas de redes y ciberseguridad enfocado en optimización de rendimiento, fortalecimiento de seguridad y gestión escalable de infraestructura empresarial.
 
 ---
 
-© 2024 NetGuard Solutions. All rights reserved.
+© 2024 NetGuard Solutions. Todos los derechos reservados.
